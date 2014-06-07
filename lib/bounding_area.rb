@@ -1,5 +1,3 @@
-require 'pry'
-
 class BoundingArea
 
   def initialize(boxes)
